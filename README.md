@@ -4,13 +4,7 @@ This repository contains the official implementation of the paper:
 The codes will be published after being accepted.
 ## Overview
 
-HyFIDS is a lightweight Intrusion Detection System (IDS) designed specifically for Internet of Vehicles (IoV) scenarios.  
-It integrates spatial and frequency domain features to efficiently detect anomalies in both intra-vehicle and inter-vehicle networks, achieving high detection performance with minimal computational overhead.
-
-Key Features:
-- Hybrid feature extraction combining raw byte embeddings and 2D Fourier representations.
-- Extremely low FLOPs and model size for resource-constrained IoV devices.
-- Competitive accuracy compared to state-of-the-art (SOTA) methods.
+In this paper, we study adversarial scenarios requiring less prior knowledge than black-box attacks and propose a four-tier ERA framework, which progressively decreases adversarial knowledge while increasing attack complexity from black-box to no-box settings.
 
 ## Project Structure
 
