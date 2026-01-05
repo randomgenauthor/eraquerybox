@@ -1,7 +1,7 @@
 # Bridging Black-Box and No-Box: Embedding Reconstruction Attacks on Deep Recognition Systems
 This repository contains the official implementation of the paper:  
 **Bridging Black-Box and No-Box: Embedding Reconstruction Attacks on Deep Recognition Systems**.
-The codes will be published after being accepted.
+The all codes will be published after being accepted.
 ## Overview
 
 In this paper, we study adversarial scenarios requiring less prior knowledge than black-box attacks and propose a four-tier ERA framework, which progressively decreases adversarial knowledge while increasing attack complexity from black-box to no-box settings.
